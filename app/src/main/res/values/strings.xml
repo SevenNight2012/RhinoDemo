@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RhinoDemo</string>
+    <string name="invoke_js_method">Invoke js method</string>
+</resources>
