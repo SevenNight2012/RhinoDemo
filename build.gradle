@@ -36,10 +36,10 @@ allprojects {
 
 subprojects {
     configurations.all {
-        resolutionStrategy {
-            force "org.mozilla:rhino-runtime:1.7.14"
-            // force "org.mozilla:rhino-runtime:1.7.13"
-        }
+        // resolutionStrategy {
+        //     force "org.mozilla:rhino-runtime:1.7.14"
+        //     // force "org.mozilla:rhino-runtime:1.7.13"
+        // }
     }
 }
 
